@@ -1,5 +1,5 @@
 server:
-  port: 8085
+  port: 8080
 spring:
   jpa:
     hibernate:
@@ -11,7 +11,7 @@ spring:
     schema: classpath:schema.sql
     data: classpath:data.sql
   application:
-    name: micro-user-service2
+    name: micro-user-service
 logging:
   level:
     root: info
