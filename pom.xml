@@ -13,6 +13,7 @@
         <module>micro-service-discovery-eureka</module>
         <module>micro-user-service-consumer-ribbon</module>
         <module>micro-user-service-consumer-ribbon-customizing</module>
+        <module>micro-user-service-consumer-ribbon-properties</module>
     </modules>
     <packaging>pom</packaging>
 
